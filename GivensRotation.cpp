@@ -55,7 +55,7 @@ int main(){
     G.setIdentity();
     
     
-    // - replace the value of elements in position (p,p), (p,q), (q,p), (q,q)
+    // - replace the value of the elements in position (p,p), (p,q), (q,p), (q,q)
     
     G(p,p) = cos;
     G(p,q) = sin;
