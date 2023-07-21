@@ -1,5 +1,7 @@
 #include <iostream>
-#include "Eigen.hpp"
+#include "Eigen/Dense"
+// Eigen is a C++ template library for linear algebra: matrices, vectors, numerical solvers, and related algorithms.
+// https://eigen.tuxfamily.org/index.php?title=Main_Page
 
 using namespace std;
 
