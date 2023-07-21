@@ -1,5 +1,8 @@
 // info@stce.rwth-aachen.de
 
+// Eigen is a C++ template library for linear algebra: matrices, vectors, numerical solvers, and related algorithms.
+// https://eigen.tuxfamily.org/index.php?title=Main_Page
+
 #pragma once
 
 #include "Eigen/Dense"
