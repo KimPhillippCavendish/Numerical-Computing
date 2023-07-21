@@ -68,5 +68,4 @@ int main(){
     // Result = G*x
     cout << G*x << endl;
     
-    cout << x_pq_norm << endl;
 }
